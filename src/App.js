@@ -46,8 +46,8 @@ class App extends Component {
       .then((response) => {
         this.setState({
           location: {
-            lat: response.data.latitude,
-            lng: response.data.longitude
+            lat: 39.9289,
+            lng: 116.3883,
           },
           GotUserLoc: true,
           zoom: 13,
