@@ -8,7 +8,6 @@ import {
   Marker,
   Popup
 } from 'react-leaflet'
-import './App.css';
 
 import axios from 'axios'
 
