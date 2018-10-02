@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Map, Marker, GoogleApiWrapper } from 'google-maps-react';
-var key = "AIzaSyDfk0HtkqU5CsvElsATtaiLlYRgENWXTRQ"
+var key = "AIzaSyCQHtrnDIUAJw5uSJy6l1AjmuM7tgUymGU"
 
 const style = {
     width: '100%',
